@@ -68,6 +68,7 @@ return showDialog(
                 
                 
                 children: [
+                  
                   SizedBox(width: 10,),
                   Text('Feedback Or Improvement Ideas ',style: TextStyle(fontSize: 16,fontWeight: FontWeight.bold),),
                   Text('*',style: TextStyle(color: Colors.red,fontWeight: FontWeight.bold),)
@@ -90,7 +91,7 @@ return showDialog(
                     
                     
                     decoration: InputDecoration(
-                      isDense: true,
+                    isDense: true,
                       
 
                       
@@ -144,7 +145,7 @@ return showDialog(
       
 
     ],
-  ), 
+    ), 
      context:context,
 
   
@@ -202,7 +203,7 @@ return showDialog(
                 ),
               ),
       
-              //another section..
+              //another section...
       
               Container(
                 margin: EdgeInsets.all(40),
@@ -214,14 +215,14 @@ return showDialog(
                       onPressed: (){
 
                       
-                         showdialog(BuildContext,"Add Feedback or Improvement Ideas");
+                        showdialog(BuildContext,"Add Feedback or Improvement Ideas");
 
 
 
 
 
                       },
-                    child: Padding(
+                      child: Padding(
                       padding: const EdgeInsets.all(10.0),
                       child: Text('Add New Feedback',style: TextStyle(color: Colors.white),),
                     ),
@@ -244,6 +245,15 @@ return showDialog(
       
                  height: 500,
                  width: double.infinity,
+                 child:DataTable(
+                  columns: [
+                    DataColumn(label: Text('Feedback & improvement idea')),
+                    DataColumn(label: Text('Ideator')),
+                    DataColumn(label: Text('Time')),
+                  ],
+
+                  rows: ,
+                 ),
 
                  
                  
@@ -299,19 +309,19 @@ return showDialog(
                 onTap: () {
                   
 
-                        Navigator.push(context, MaterialPageRoute(builder:(context) =>myassets(),));
+                  Navigator.push(context, MaterialPageRoute(builder:(context) =>myassets(),));
                       
                 },
                 leading: Icon(Icons.web_asset_sharp,color: Colors.white,),
                 title: Text('My Assets',style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold,fontSize: 16),),
               ),
 
-              //fourth listview
+              //fourth listview..
 
                ListTile(
                 onTap: () {
 
-               Navigator.push(context, MaterialPageRoute(builder:(context) =>timesheet(),));
+                Navigator.push(context, MaterialPageRoute(builder:(context) =>timesheet(),));
 
                   
                 },

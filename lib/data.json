@@ -1,0 +1,157 @@
+{
+    "success": "true",
+    "data": [
+        {
+            "details": {
+                "specification": {
+                    "ram": "16GB",
+                    "processor": "i7, 4GB GTX GC",
+                    "storageType": "SSD",
+                    "capacity": "512GB",
+                    "macAddress": "70-CD-0D-D5-12-04",
+                    "os": " ",
+                    "osVersion": " ",
+                    "adminUser": "{\"iv\":\"4f441d056d6e36ab2188068056fa8d61\",\"content\":\"5db539e087d7573e65e29cffebf709a95aaf8f65\"}",
+                    "adminPassword": "{\"iv\":\"64c6f8a5c62113dffb81fcbf56c7723c\",\"content\":\"a005bf34708b52a58266c2c2d4\"}",
+                    "localUser": "{\"iv\":\"3f5914e6a174c5829e0fc4a88928bf81\",\"content\":\"3b7daccd81b86f4c7ed7d0\"}",
+                    "localPassword": "{\"iv\":\"75beb06ce2837c99d70d4efe903e86f6\",\"content\":\"523044834da25c\"}",
+                    "bitLockerKey": "{\"iv\":\"2ba9f2340910865624965ad34cd8c7ae\",\"content\":\"6035d1ddb2c1307916dc291f4318dda9\"}",
+                    "securityPin": "{\"iv\":\"1188d1fb712d7a5381ebfecd707064a5\",\"content\":\"be9d5b5f\"}"
+                },
+                "price": 91990,
+                "purchasedType": "Vendor",
+                "vendorDetails": "",
+                "brand": "LENOVO",
+                "modal": "Legion 5 - 82AU00PPIN",
+                "gst": "",
+                "serialNumber": "PF33TC24",
+                "buyingDate": "2022-11-07T18:30:00.000Z",
+                "warrantyStartDate": "2022-02-24T18:30:00.000Z",
+                "warrantyEndDate": null,
+                "assetDescription": ""
+            },
+            "history": {
+                "issue": [
+                    {
+                        "userId": "V149",
+                        "ticketId": "VG_TK_0040",
+                        "_id": "63787752b721d2681ddf5175"
+                    },
+                    {
+                        "userId": "V149",
+                        "ticketId": "VGTK_0042",
+                        "_id": "63787d468758862504e5cc99"
+                    },
+                    {
+                        "userId": "V149",
+                        "ticketId": "VGTK_0044",
+                        "_id": "6379c07661fdb346e75f7c59"
+                    },
+                    {
+                        "userId": "V149",
+                        "ticketId": "VGTK_0047",
+                        "_id": "6379c3accdd71b080cb1d3c6"
+                    },
+                    {
+                        "userId": "V149",
+                        "ticketId": "VGTK_0060",
+                        "_id": "638c5f6c98c2e1302882c82c"
+                    },
+                    {
+                        "userId": "V149",
+                        "ticketId": "VGTK_0061",
+                        "_id": "638c5f8d5e4256c559a58d51"
+                    }
+                ],
+                "users": []
+            },
+            "software": {
+                "installedSoftware": []
+            },
+            "_id": "6377232a87ce4944aabc8689",
+            "assetId": "VGLT_0088",
+            "assetType": "laptop",
+            "acceptance": false,
+            "employeeId": "V149",
+            "teamId": "Web + ecom",
+            "remark": " ",
+            "status": "allocated",
+            "invoice": "not upload",
+            "updatedAt": "2022-12-04T08:51:25.434Z"
+        },
+        {
+            "details": {
+                "price": 500,
+                "purchasedType": "Vendor",
+                "vendorDetails": "Apex Powerlec - Nandanam",
+                "brand": "lenovo",
+                "modal": "B100",
+                "gst": "no",
+                "serialNumber": "0252151515",
+                "buyingDate": "2022-12-08T00:00:00.000Z",
+                "warrantyStartDate": "2022-12-09T00:00:00.000Z",
+                "warrantyEndDate": "2022-12-17T00:00:00.000Z",
+                "assetDescription": "gud"
+            },
+            "history": {
+                "users": [],
+                "issue": []
+            },
+            "software": {
+                "installedSoftware": [
+                    []
+                ]
+            },
+            "_id": "638c5d6e98c2e1302882c600",
+            "assetType": "mouse",
+            "acceptance": false,
+            "employeeId": "V149",
+            "teamId": "operations",
+            "allocatedAt": "2022-12-14T00:00:00.000Z",
+            "remark": "gud",
+            "status": "allocated",
+            "invoice": "Ram Ticket 1670143342190.pdf",
+            "assetId": "VGLT_0113",
+            "createdAt": "2022-12-04T08:42:22.387Z",
+            "updatedAt": "2022-12-04T08:42:22.387Z",
+            "__v": 0
+        },
+        {
+            "details": {
+                "price": 500,
+                "purchasedType": "Vendor",
+                "vendorDetails": "Apex Powerlec - Nandanam",
+                "brand": "lenovo",
+                "modal": "B100",
+                "gst": "no",
+                "serialNumber": "0252151515",
+                "buyingDate": "2022-12-08T00:00:00.000Z",
+                "warrantyStartDate": "2022-12-09T00:00:00.000Z",
+                "warrantyEndDate": "2022-12-17T00:00:00.000Z",
+                "assetDescription": "gud"
+            },
+            "history": {
+                "users": [],
+                "issue": []
+            },
+            "software": {
+                "installedSoftware": [
+                    []
+                ]
+            },
+            "_id": "638c5d6e98c2e1302882c604",
+            "assetType": "mouse",
+            "acceptance": false,
+            "employeeId": "V149",
+            "teamId": "operations",
+            "allocatedAt": "2022-12-14T00:00:00.000Z",
+            "remark": "gud",
+            "status": "allocated",
+            "invoice": "Ram Ticket 1670143342421.pdf",
+            "assetId": "VGLT_0114",
+            "createdAt": "2022-12-04T08:42:22.597Z",
+            "updatedAt": "2022-12-04T08:42:22.597Z",
+            "__v": 0
+        }
+    ]
+}
